@@ -38,20 +38,9 @@ The model was evaluated using the unseen validation dataset. The results indicat
 * **Tools:** Google Colab, Google Drive (for dataset storage)
 
 #Test result
-<img width="450" height="308" alt="image" src="https://github.com/user-attachments/assets/9ae4a137-43c5-46dd-80c3-9bd381d4dc3b" />
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="[masukin-link-atau-nama-gambar-lu-di-sini.jpg](https://github.com/user-attachments/assets/9ae4a137-43c5-46dd-80c3-9bd381d4dc3b)" width="600" alt="Hasil Prediksi Mineral">
+</p>
 This picture above is a demonstration of how the model can predict the mineral which is shown in the picture
 
 
