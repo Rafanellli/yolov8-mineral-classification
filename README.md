@@ -42,6 +42,11 @@ The model was evaluated using the unseen validation dataset. The results indicat
 
 
 
+
+
+
+
+
 This picture above is a demonstration of how the model can predict the mineral which is shown in the picture
 
 
